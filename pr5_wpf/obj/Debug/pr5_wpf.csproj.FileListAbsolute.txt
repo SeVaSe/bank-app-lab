@@ -1,0 +1,17 @@
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\bin\Debug\pr5_wpf.exe.config
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\bin\Debug\pr5_wpf.exe
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\bin\Debug\pr5_wpf.pdb
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.csproj.AssemblyReference.cache
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\MainWindow.g.cs
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\App.g.cs
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf_MarkupCompile.cache
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf_MarkupCompile.lref
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\MainWindow.baml
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.g.resources
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.Properties.Resources.resources
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.exe
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\pr5_wpf.pdb
+D:\VISUAL_STUDIO_\Vs_Project\C#\PR_AKSENOVA_\ptpm_pr5\pr5_wpf\pr5_wpf\pr5_wpf\obj\Debug\App.baml

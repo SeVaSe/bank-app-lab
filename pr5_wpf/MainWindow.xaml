@@ -1,0 +1,43 @@
+﻿<Window x:Class="pr5_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr5_wpf"
+        mc:Ignorable="d"
+        Title="BankAccount" Height="242" Width="317">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFFFFFFF" Offset="2"/> 
+            <GradientStop Color="#FFCBDEF6" Offset="0.1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,0,0,1">
+        <Grid HorizontalAlignment="Left" Height="166" Margin="0,-11,0,0" VerticalAlignment="Top" Width="279">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="11"/>
+                <RowDefinition Height="40.373"/>
+                <RowDefinition Height="10.627"/>
+                <RowDefinition Height="40*"/>
+                <RowDefinition Height="11*"/>
+                <RowDefinition Height="40*"/>
+                <RowDefinition Height="6*"/>
+
+            </Grid.RowDefinitions>
+            <Button Name="Btn_credit" Style="{StaticResource CustomButtonStyle}" Content="Пополнить" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Width="80" Height="26" Grid.Row="5" Click="Btn_credit_Click"/>
+            <Button Name="Btn_debit" Style="{StaticResource CustomButtonStyle}" Content="Снять" HorizontalAlignment="Left" Margin="104,0,0,0" VerticalAlignment="Center" Width="80" Height="26" Grid.Row="5" Click="Btn_debit_Click"/>
+
+            <TextBox Name="TxtBox_sum" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="60,0,0,0" Grid.Row="3" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="197" Height="30"/>
+
+            <TextBlock Name="TxtBl_balance"  HorizontalAlignment="Left" Margin="66,13,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="17"/>
+
+            <Label Content="Сумма:" Style="{StaticResource CustomLabelStyle}" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Height="30" Width="50" Margin="10,0,0,0"/>
+            <Label Content="Баланс:" Style="{StaticResource CustomLabelStyle}" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Center" Width="56"/>
+
+
+
+
+        </Grid>
+
+    </Grid>
+</Window>
